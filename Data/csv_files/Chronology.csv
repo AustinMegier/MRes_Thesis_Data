@@ -1,0 +1,34 @@
+1,OK,OK,4,4,Khafre,Shepsekaf
+3,OK,OK,4,4,Menkaure,Menkaure
+4,OK,OK,4,4,Shepsekaf,Shepsekaf
+5,OK,OK,4,5,Shepsekaf,Weserkaf
+6,OK,OK,5,5,,
+7,OK,OK,5,5,Weserkaf,Sahure
+8,OK,OK,5,5,Weserkaf,Neferirkare
+9,OK,OK,5,5,Sahure,Sahure
+10,OK,OK,5,5,Sahure,Neferirkare
+11,OK,OK,5,5,Sahure,Niuserre
+12,OK,OK,5,5,Neferirkare,Neferirkare
+13,OK,OK,5,5,Neferirkare,Neferefre
+14,OK,OK,5,5,Neferirkare,Niuserre
+15,OK,OK,5,5,Niuserre,Niuserre
+16,OK,OK,5,5,Niuserre,Menkauhor
+17,OK,OK,5,5,Niuserre,Djedkare Izezy
+18,OK,OK,5,5,Niuserre,Wenis
+19,OK,OK,5,5,Menkauhor,Djedkare Izezy
+20,OK,OK,5,5,Djedkare Izezy,Djedkare Izezy
+21,OK,OK,5,5,Djedkare Izezy,Wenis
+22,OK,OK,5,5,Wenis,Wenis
+23,OK,OK,5,6,Djedkare Izezy,Teti
+24,OK,OK,5,6,Wenis,
+25,OK,OK,5,6,Wenis,Teti
+26,OK,OK,5,6,Wenis,Pepy II
+27,OK,OK,6,6,,
+28,OK,OK,6,6,Teti,Teti
+29,OK,OK,6,6,Teti,Pepy I
+30,OK,OK,6,6,Pepy I,Pepy I
+31,OK,OK,6,6,Pepy I,Merenre
+32,OK,OK,6,6,Pepy I,Pepy II
+33,OK,OK,6,6,Merenre,Pepy II
+34,OK,OK,6,6,Pepy II,Pepy II
+35,OK,FIP,,,,

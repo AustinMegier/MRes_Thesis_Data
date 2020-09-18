@@ -1,0 +1,258 @@
+1,2,M,flute,,right,right,1,1
+2,2,,harp,,left,left,4,4
+3,2,M,clarinet,,right,right,5,1
+4,2,M,flute,,right,right,7,3
+5,3,M,harp,,right,right,1,
+6,3,M,clarinet,sb(A),right,right,3,
+7,3,M,flute,sb(A),left,left,6,
+8,4,F,harp,sA[.t]=f #w,right,right,1,
+9,4,F,harp,sA[.t]=f %t.s-kA.w,right,right,2,
+10,5,M,clarinet,,left,left,2,2
+11,5,M,harp,,left,left,4,4
+12,5,M,flute,,right,right,5,1
+13,6,,harp,,left,left,1,
+14,7,M,harp,Hs(i).t sqr,right,right,2,
+15,8,F,harp,sA.t sA.t=f Nbw-dwA.t,right,right,1,
+16,8,M,harp,sA sA=f K(A)Hi=f,right,right,2,
+17,9,M,clarinet,mm(.t),right,right,1,
+18,10,,flute,,right,right,1,
+19,10,,harp,,right,right,3,
+20,11,,harp,,right,right,2,
+21,11,,harp,,right,right,4,
+22,11,M,flute,,left,,5,
+23,11,M,flute,mwAx nfr n kA,left,left,6,
+24,12,M,harp,bn.t,left,left,2,
+25,12,M,harp,,left,left,3,
+26,12,M,flute,/// b,left,left,4,
+27,13,M,harp,Hs(i).t sqr,left,left,1,
+28,13,M,flute,sbA.t,left,left,3,
+29,13,M,clarinet,sbA mm.t,left,left,4,
+30,13,M,harp,sqr,left,left,5,
+31,14,,harp,,right,right,1,
+32,15,M,clarinet,sb(A) mm[.t],right,right,1,
+33,15,M,flute,sb(A) m///,right,right,2,
+34,15,M,harp,sqr m bn.t,right,right,4,
+35,15,M,harp,,right,right,6,
+36,16,M,harp,bn.t,right,right,1,
+37,16,M,harp,bn.t,left,left,4,
+38,16,M,flute,mA.t,right,right,5,
+39,16,M,clarinet,sb(A) mm[.t],left,left,7,
+40,17,M,harp,bn.t,right,right,1,
+41,17,M,harp,bn.t,right,right,3,
+42,17,M,flute,sb(A) mA.t,right,right,5,
+43,18,M,harp,sqr m bn.t,left,left,1,
+44,19,M,harp,sqr m bn.t sHD Hsi.t nfr.t,left,left,1,
+45,19,M,harp,sqr m bn.t,left,left,2,
+46,20,M,harp,,right,right,1,
+47,21,M,harp,bn.t,left,left,1,
+48,21,M,flute,,left,left,3,
+49,22,,flute,sbA mA.t,left,left,2,
+50,22,,harp,sqr bn.t,left,left,4,
+51,23,M,clarinet,mm.t,right,right,1,1
+52,23,M,harp,sqr m bn.t,left,left,4,4
+53,23,M,harp,/// b[n].t,left,left,6,6
+54,23,M,flute,sbA,right,right,7,1
+55,24,M,harp,sqr m bn.t,left,left,2,
+56,25,M,harp,,right,right,1,
+57,25,M,flute,,right,right,3,
+58,26,F,harp,Hs(i).t sqr,right,right,1,
+59,26,F,harp,Hs(i).t,right,right,2,
+60,26,F,harp,Hs(i).t Nfr-mnx.t,right,right,3,
+61,26,F,harp,sqr sA.t=s Nb.t,right,right,4,
+62,26,F,harp,sqr sA.t=f Iry,right,right,5,
+63,26,M,flute,sAb,right,right,6,
+64,27,M,harp,,left,left,1,
+65,27,M,harp,,left,left,2,
+66,27,M,flute,,left,left,3,
+67,27,M,clarinet,,left,left,4,
+68,28,M,flute,sAb,right,right,1,
+69,28,,harp,sqr bn.t,,,3,
+70,29,M,flute,sS nfr,left,left,1,
+71,30,M,flute,,right,right,1,
+72,30,M,harp,,right,right,3,
+73,31,M,harp,sqr [b]n[.t],left,left,1,
+74,31,M,harp,sqr,left,left,2,
+75,31,M,flute,,left,left,5,
+76,31,M,clarinet,,left,left,6,
+77,31,M,flute,,left,left,7,
+78,32,M,flute,,right,right,1,
+79,32,M,harp,,right,right,3,
+80,32,M,harp,,left,left,5,
+81,33,M,clarinet,,right,right,1,1
+82,33,M,flute,,right,right,3,3
+83,33,M,harp,,right,right,5,5
+84,33,M,harp,,left,left,8,8
+85,33,M,clarinet,,right,right,9,1
+86,33,M,flute,,right,right,11,3
+87,34,,,,left,,2,2
+88,34,M,clarinet,,right,right,3,1
+89,34,,,,right,,4,1
+90,34,M,,,left,,7,4
+91,35,F,harp,sA.t=f rx nsw N /// s,right,right,1,
+92,35,F,harp,sA.t=f rx nsw,right,right,2,
+93,37,M,clarinet,,left,left,1,
+94,38,M,clarinet,sbA nfr(?) hy,left,left,1,
+95,38,M,flute,sbA mA.t,left,left,4,
+96,38,,harp,sqr bn.t,right,right,5,
+97,39,M,flute,[s]b(A) mA.t,right,right,1,
+98,39,M,harp,sqr bn.t,right,right,4,
+99,39,M,harp,sqr bn.t,left,left,5,
+100,40,M,flute,sb(A) mA.t,right,right,1,
+101,40,M,harp,sqr bn.t,right,right,3,
+102,40,M,harp,sqr bn.t,left,left,4,
+103,41,M,flute,sb(A) mA.t nfr,right,right,1,
+104,41,M,harp,sqr bn.t,left,left,3,
+105,41,M,flute,sb(A) mA.t nfr,right,right,4,
+106,41,M,harp,sqr bn.t,right,right,6,
+107,44,M,harp,sqr m bn.t,left,left,1,
+108,44,M,flute,{n}<s>bA mA.t,left,left,3,
+109,45,M,harp,sqr m b[n].t,left,left,2,
+110,45,M,flute,sbA mA.t,left,left,4,
+111,45,M,clarinet,sbA m mm.t,left,left,6,
+112,46,,clarinet,sbA m[m.t],,,1,
+113,46,,flute,sbA mA[.t],,,3,
+114,46,,harp,s[qr bn.t],right,right,5,
+115,47,M,harp,sqr bn.t,right,right,1,1
+116,47,M,clarinet,,right,,3,1
+117,48,F,harp,/// %SsS.t,right,right,1,
+118,51,,harp,,right,right,,
+119,52,M,flute,sb(A),left,right,1,
+120,52,M,clarinet,sb(A) mm.t,left,left,4,
+121,52,M,harp,sqr bn.t,left,left,7,
+122,54,M,flute,sbA m mA.t,left,left,2,
+123,54,M,harp,sqr m bn.t,left,left,3,
+124,56,M,flute,sbA,right,right,1,
+125,56,M,harp,sqr bn.t,right,right,3,
+126,57,M,flute,,right,right,1,
+127,57,M,harp,,right,right,3,
+128,58,,harp,/// mr.t,right,right,1,
+129,59,M,flute,Hs(i) /// mr /// I ///,left,left,1,1
+130,59,M,harp,Hs(i) /// P /// w ///,left,left,2,2
+131,59,M,flute,Hs(i) Idiq,left,left,3,3
+132,59,M,harp,,left,left,4,4
+133,59,F,harp,Hm.t=f mr.t=f %SsS.t,left,left,5,1
+134,59,F,harp,Hm.t=f mr.t=f Ir.t,left,left,6,2
+135,59,F,harp,Hm.t=f mr.t=f Nb.t,left,left,7,3
+136,59,F,harp,Hm.t=f mr.t=f MTw[.t],left,left,8,4
+137,60,M,harp,/// s ///,left,left,1,1
+138,60,M,harp,Hs(i) P ///,left,left,2,2
+139,60,M,harp,Hs(i) Id ///,left,left,3,3
+140,60,M,harp,Hs(i) ///,left,left,4,4
+141,60,F,harp,Hm.t=f mr.t=f [%S]sS.t,left,left,5,1
+142,60,F,harp,Hm.t=f mr.t=f Ir.t,left,left,6,2
+143,60,F,harp,Hm.t=f mr.t=f Nb.t,left,left,7,3
+144,60,F,harp,Hm.t=f mr.t=f MTw.t,left,left,8,4
+145,60,F,harp,Hm.t=f MTw.t,right,right,9,1
+146,60,F,harp,Hm.t=f Nb.t,right,right,10,2
+147,60,F,harp,Hm.t=f Nb.t,right,right,11,1
+148,60,F,harp,Hs(i).t Hm.t=f Ir.t,right,right,12,2
+149,60,F,harp,/// [N]b.t,right,right,13,1
+150,60,F,harp,Hm.t=f mr[.t=f]  [%]SsS.t,right,right,14,2
+151,61,M,harp,Hs(i).t m bn.t [Id] /// q,right,right,1,1
+152,61,M,harp,[Hs](i).t /// n /// P /// w ///,right,right,2,2
+153,61,M,harp,[Hs](i).t m bn.t mr /// y,right,right,3,3
+154,61,M,flute,/// Ab,right,right,4,4
+155,61,F,harp,Hm[.t]=f mr.t=f MTw[.t],right,right,5,1
+156,61,F,harp,Hs(i).t /// Hm.t mr.t=f Nb.t,right,right,6,2
+157,61,F,harp,Hs(i).t m bn.t Hm.t=f mr.t=f Ir.t,right,right,7,3
+158,61,F,harp,Hm.t=f mr.t=f %SsS.t,right,right,8,4
+159,64,M,flute,/// nfr,right,right,1,1
+160,64,F,harp,sn nTr.w,right,right,2,2
+161,64,F,harp,Hs ///,right,right,3,3
+162,64,M,clarinet,sbA m[m].t{t},right,right,4,1
+163,64,M,harp,/// t,right,right,5,2
+164,64,M,harp,Hs(i).t,right,right,6,3
+165,65,F,harp,sA.t=f mr.t=f Hsi.t,right,right,1,1
+166,66,M,harp,,left,left,1,1
+167,66,M,harp,,left,left,2,2
+168,66,M,flute,[s]b(A) n kA{nb}<=k> ra.w-nb {r}(?),left,left,3,3
+169,66,M,clarinet,sb(A) m mm.t,left,left,5,5
+170,67,M,flute,,left,left,1,1
+171,67,M,flute,,left,left,3,3
+172,67,M,flute,,left,right,4,1
+173,67,M,flute,,left,right,6,3
+174,68,M,harp,sqr bn.t,right,right,1,
+175,68,M,flute,sbA,right,right,3,
+176,69,M,harp,,left,left,1,1
+177,69,M,harp,,left,left,2,2
+178,69,M,flute,,left,left,4,2
+179,69,M,clarinet,,left,left,6,4
+180,70,M,clarinet,sb(A) mm.t,right,right,1,
+181,70,M,flute,sb[A] mA.t,right,left,3,
+182,70,M,flute,,right,right,4,
+183,70,M,harp,sqr bn.t,right,right,7,
+184,70,M,harp,sqr,right,right,8,
+185,71,M,flute,[sbA] m[A.t],right,right,1,
+186,71,,harp,,right,right,3,
+187,72,F,harp,sA[.t]=f ///,left,left,1,
+188,72,F,harp,sqr /// sA[.t=f] ///,left,left,2,
+189,72,F,harp,/// t /// f,left,left,3,
+190,73,F,harp,Hknw,right,right,1,
+191,74,M,flute,sbA,right,left,2,
+192,74,M,harp,sqr [b]n.t,left,left,4,
+193,76,,clarinet,,left,left,4,
+194,77,,harp,[sqr] ///,left,left,1,1
+195,77,M,harp,/// bn.t,left,left,2,1
+196,78,M,flute,sbA n kA nfr,right,right,1,
+197,79,F,harp,sA.t=f mdw.t=s,left,left,1,
+198,79,F,harp,sqr nfr,left,left,3,
+199,79,M,flute,sb(A) m(A).t,left,left,4,
+200,80,M,harp,sqr bin.t,right,right,1,
+201,81,M,flute,,left,left,2,
+202,82,M,flute,m nA bw nfr n kA=k,left,left,1,
+203,82,F,harp,,left,left,2,
+204,83,F,harp,sA.t=f nfr.t,left,left,1,
+205,83,F,harp,sqr m bn.t,left,left,2,
+206,83,M,flute,sbA,left,left,4,
+207,84,M,flute,,right,right,1,
+208,84,M,harp,,right,right,2,
+209,84,F,harp,,right,right,3,
+210,84,F,harp,,right,right,4,
+211,85,M,flute,,left,left,2,2
+212,85,M,clarinet,,left,left,4,4
+213,85,F,harp,bn.t,left,left,6,2
+214,86,M,harp,Dba(?) sqr nTr,left,left,1,
+215,86,M,flute,sbA mA.t,left,left,4,
+216,87,M,harp,,right,right,1,
+217,87,M,harp,,right,right,2,
+218,87,M,harp,,right,right,3,
+219,87,M,harp,,right,right,4,
+220,87,M,harp,,right,right,5,
+221,87,M,harp,,right,right,6,
+222,87,M,harp,,right,right,7,
+223,88,,harp,,right,right,1,
+224,89,F,harp,,left,left,1,1
+225,89,F,harp,,left,left,2,1
+226,90,F,harp,rx.t nsw.t %rsrs,right,right,1,
+227,91,M,flute,Sps nsw.t mST sb(A) nfr wr.t,right,right,1,
+228,91,F,harp,sA.t=f mr.t=f PXr-nfr.t,left,left,2,
+229,91,F,harp,sA.t=f mr.t=f Mr.t-it,left,left,3,
+230,92,,harp,Nt[y]-Tnt(t),right,right,1,
+231,93,,flute,irw Hs(i).t /// k,left,left,1,
+232,94,F,harp,[H]si ///,right,right,1,
+233,95,M,harp,s[qr] m [b]n.t,right,right,1,
+234,95,F,harp,Hs(i).t [m] bn.t,right,right,2,
+235,96,F,harp,,right,right,1,
+236,97,F,harp,/// bn.t,left,left,1,1
+237,97,F,harp,,left,left,2,1
+238,98,F,harp,,left,left,1,
+239,98,F,harp,,left,left,2,
+240,98,F,harp,,left,left,3,
+241,98,F,harp,,left,left,4,
+242,99,F,harp,,left,left,1,
+243,99,F,harp,,left,left,2,
+244,99,F,harp,,left,left,3,
+245,99,F,harp,,left,left,4,
+246,101,M,harp,/// [Hsi] mAA iri (?),right,right,2,
+247,63,F,harp,,right,right,1,1
+248,63,F,harp,,right,right,3,3
+249,63,F,harp,,right,right,5,5
+250,63,M,flute,,right,,6,1
+251,63,M,clarinet,,left,left,7,2
+252,63,M,flute,,right,right,8,3
+253,63,M,flute,,right,right,9,4
+254,63,,,,right,,10,5
+255,100,M,flute,,left,,1,
+256,100,M,clarinet,,left,left,2,
+257,49,,harp,,right,right,2,
+258,49,,harp,,right,right,3,
