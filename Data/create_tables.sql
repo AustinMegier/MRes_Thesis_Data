@@ -251,11 +251,11 @@ create table Gesture (
 
 create table Chironomist_Gesture (
   Chironomist_ID integer references Chironomist,
-  Hand_RL	text,
+  Hand_NF	text,
   Gesture_ID text references Gesture,
   Arm_Height_Description text,
   Arm_Angle_Description text,
-  primary key (Chironomist_ID, Hand_RL)
+  primary key (Chironomist_ID, Hand_NF)
 );
 
 .import csv_files/Chironomist_Gesture.csv Chironomist_Gesture

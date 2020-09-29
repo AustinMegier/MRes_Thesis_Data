@@ -1,17 +1,17 @@
-1,hand to ear,hand to ear
-2,circle,index touching thumb form a circular shape
-3,outstreched palm,palm outstretched
-4,resting fist,clenched fist on knee/thigh
-5,resting palm,resting palm on knee/thigh
-6,palm to mouth,palm held to mouth
-7,fist to mouth,clenched fist held to mouth
-8,downards outstreched palm,palm outstretched (facing downards)
-9,in motion,palm outstretched but not chironomic or resting on thigh/knee; looks to be in motion rather than static
-S1,holding fly-whisk,for tomb owners
-S2,clapping,"when palms are open, the above palm facing downwards and the below palm facing upwards."
-U1,unique 1,cf. Chironomist_ID 114
-U2,unique 2,cf. Chironomist_ID 114
-U3,unique 3,cf. Chironomist_ID 115
-U4,unique 4,cf. Chironomist_ID 115
-U5,unique 5,cf. Chironomist_ID 134
-U6,unique 6,cf. Chironomist_ID 21 - palm placed across chest
+G1,outstretched palm,All five fingers are outstretched with the thumb at the top and the fifth finger at the bottom.
+G2,hand held to ear,An outstretched palm (where all fingers are seen) placed at the same height as the ear.
+G3,resting palm,A palm represented from a side view that is visually rests on either the knee or thigh.
+G4,circular,"The index finger and thumb form a circle, while the remaining three fingers remain outstretched."
+G5,resting fist,A clenched fist that visually rests on either the knee or thigh.
+G6,hand to mouth,An outstretched palm held to the mouth.
+G7,fist to mouth,A clenched fist held to the mouth.
+G8,downwards outstretched palm,An outstretched palm where the thumb is represented at the bottom of the hand.
+S1,holding 'baton',"A tomb owner and possible chironomist 'holding' a stick, possibly a baton. The hand holding the baton is represented with an open/outstretched palm."
+S2,in motion,"Where the hand/arm is argued (by me) to be 'in motion' in scenes representing 'successive movement', and therefore the individual sign itself cannot be confidently discerned."
+S3,clapping,"Identified as 'clapping' due to many parallels in other scene types (e.g. dance scenes, and in Beni Hassan)."
+U1,unique 1,cf. Chironomist_ID 21 - the arm is placed across the chest. This attestation is questionable.
+U2,unique 2,cf. Chironomist_ID 114 - the near arm; two fingers are held down by the thumb and two are pointed upwards.
+U3,unique 3,cf. Chironomist_ID 114 - the far arm; an outstretched palm with thumb on top; at the height of the thigh.
+U4,unique 4,cf. Chironomist_ID 115 - overlapping with U5; composition too difficult to discern.
+U5,unique 5,cf. Chironomist_ID 115 - overlapping with U6; composition too difficult to discern.
+U6,unique 6,"cf. Chironomist_ID 134 - the far arm; the index finger and thumb are touching forming a circle, the third finger is outstretched pointing upwards, the fourth and fifth fingers are clenched into the palm."
