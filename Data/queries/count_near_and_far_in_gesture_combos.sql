@@ -6,7 +6,7 @@
 -- get all gesture combos
 drop view if exists gesture_combo;
 create view gesture_combo as 
-  SELECT Scene_ID, Chironomist_ID, Gesture_ID_Near, Gesture_ID_Far, Gesture_ID_Combination_Key
+  SELECT Scene_ID, Chironomist_ID, Gesture_ID_Combination_Key, Gesture_ID_Near, Gesture_ID_Far
     FROM Chironomist 
 	JOIN (SELECT Chironomist_ID, Gesture_ID as Gesture_ID_Near
 	        FROM Chironomist_Gesture
