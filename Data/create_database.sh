@@ -22,7 +22,7 @@ tail -n +2 "$sheet.csv" > "$sheet.tmp" && mv "$sheet.tmp" "csv_files/$sheet.csv"
 rm "$sheet.csv"
 done
 
-# cd "OneDrive - Macquarie University"/"MRes Thesis - Chironomy"/Data
+# cd "OneDrive - Macquarie University"/MRes_Thesis_Data/Data
 # Run create_tables.sql to make the database
 sqlite3 old_kingdom_musical_ensemble_scenes.db < "create_tables.sql"
 #rm *.csv

@@ -4,18 +4,18 @@
 
 
 -- get all gesture combos
-drop view if exists gesture_combo;
-create view gesture_combo as 
+DROP VIEW IF EXISTS gesture_combo;
+CREATE VIEW gesture_combo AS 
   SELECT Scene_ID, Chironomist_ID, Gesture_ID_Combination_Key, Gesture_ID_Near, Gesture_ID_Far
     FROM Chironomist 
-	JOIN (SELECT Chironomist_ID, Gesture_ID as Gesture_ID_Near
+	JOIN (SELECT Chironomist_ID, Gesture_ID AS Gesture_ID_Near
 	        FROM Chironomist_Gesture
 		   WHERE Hand_NF = 'near') USING (Chironomist_ID)
-	JOIN (SELECT Chironomist_ID, Gesture_ID as Gesture_ID_Far
+	JOIN (SELECT Chironomist_ID, Gesture_ID AS Gesture_ID_Far
 	        FROM Chironomist_Gesture
 		   WHERE Hand_NF = 'far') USING (Chironomist_ID)
 -- brian is not thinking well today. This is a hack.
-    JOIN (SELECT Chironomist_ID, group_concat(Gesture_ID,'+') as Gesture_ID_Combination_Key
+    JOIN (SELECT Chironomist_ID, group_concat(Gesture_ID,'+') AS Gesture_ID_Combination_Key
 	        FROM (SELECT * 
 			        FROM Chironomist_Gesture
 				   ORDER BY Gesture_ID)
@@ -24,12 +24,12 @@ create view gesture_combo as
 		  ;
 
 -- All chironomists with gesture combo x. Highlight this query to run
-SELECT * From gesture_combo WHERE Gesture_ID_Combination_Key = 'G3+G4';	
+SELECT * From gesture_combo WHERE Gesture_ID_Combination_Key = 'G1+G2';	
 
  SELECT Gesture_id_combination_key, 
 	    Gesture_id_near, 
 		Gesture_id_far, 
-	    count(*) as Gesture_count
+	    count(*) AS Gesture_count
 
    FROM gesture_combo
 --   add WHERE command for individual combos (saved default G3+G4)

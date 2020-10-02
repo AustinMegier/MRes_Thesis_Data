@@ -252,6 +252,7 @@ create table Gesture (
 create table Chironomist_Gesture (
   Chironomist_ID integer references Chironomist,
   Hand_NF	text,
+  Hand_RL text,
   Gesture_ID text references Gesture,
   Arm_Height_Description text,
   Arm_Angle_Description text,
