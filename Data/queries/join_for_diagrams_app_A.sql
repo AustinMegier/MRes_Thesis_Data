@@ -21,7 +21,6 @@ SELECT Scene_ID,
   JOIN Chironomist USING (Scene_ID)
   JOIN Chironomist_Gesture USING (Chironomist_ID)
   -- JOIN gesture_combo USING (Chironomist_ID)
- WHERE Instrumentalist.Scene_Order_left_to_right OR Chironomist.Scene_Order_left_to_right IS NOT NULL
  ORDER BY Scene_ID ASC, Instrumentalist_ID ASC, Chironomist_ID ASC, Hand_NF DESC 
  
   ;
