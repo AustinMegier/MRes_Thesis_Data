@@ -1,6 +1,7 @@
 -- A query that will eventually become the VIEW for Appendix C
 
 -- It might be a good idea to include a surrogate "Instrumentalist_ID" type column 
+	-- Remember as well that 57b is still 101.
 
 SELECT Scene_ID AS "Scene",
 	   Appellation AS "Tomb Appellation",
