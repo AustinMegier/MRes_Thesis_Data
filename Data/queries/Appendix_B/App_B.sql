@@ -7,7 +7,7 @@
 SELECT Scene.Scene_ID AS "Scene",
 	   Appellation AS "Tomb Appellation",
 	   Chironomist.Sex,
-	   (coalesce(Gesture_ID_Near, "G?")  || '+' || coalesce(Gesture_ID_Far, "G?")) AS "Gesture Combination",
+	   (coalesce(Gesture_ID_Near, "G?")  || '+' || coalesce(Gesture_ID_Far, "G?")) AS "Sign Combination",
 	   Inscription,
 	   Scene_Order_left_to_right AS "Scene Order (left to right, bottom to top)"
  -- if i remove the *, the query fucks up. Why?

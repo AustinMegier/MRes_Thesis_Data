@@ -8,7 +8,7 @@ SELECT Scene_ID AS "Scene",
 	   Sex,
 	   Instrument,
 	   Inscription,
-	   Scene_Order_left_to_right AS "Scene Order (left to right, bottom to top)"
+	   Scene_Order_left_to_right AS "Scene Order"
 	  -- *
   FROM Instrumentalist
   JOIN Scene USING (Scene_ID)
