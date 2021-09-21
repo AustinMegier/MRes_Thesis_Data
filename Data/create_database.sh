@@ -6,7 +6,7 @@ set -euo pipefail
 # remove the directory temporary_files if it exists
 rm -rf csv_files
 
-# make the directory temporary_fiels
+# make the directory temporary_files
 mkdir csv_files
 
 # Find all of the sheets in our excel file
@@ -22,7 +22,7 @@ tail -n +2 "$sheet.csv" > "$sheet.tmp" && mv "$sheet.tmp" "csv_files/$sheet.csv"
 rm "$sheet.csv"
 done
 
-# cd "OneDrive - Macquarie University"/MRes_Thesis_Data/Data
-# Run create_tables.sql to make the database
+# cd "OneDrive - Macquarie University"/MRes/MRes_Thesis_Data/Data
+# Run ./create_database.sh to make the database
 sqlite3 old_kingdom_musical_ensemble_scenes.db < "create_tables.sql"
 #rm *.csv
