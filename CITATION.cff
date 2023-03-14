@@ -6,7 +6,7 @@ message: >-
 type: dataset
 authors:
   - given-names: Austin Martin
-    family-names: Meger
+    family-names: Megier
     email: austin.megier@hdr.mq.edu.au
     affiliation: Macquarie University
 repository-code: 'https://github.com/AustinMegier/MRes_Thesis_Data'
