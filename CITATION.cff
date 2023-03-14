@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+title: Old Kingdom musical ensemble scenes
+message: >-
+  If you use this dataset, please cite it using the metadata
+  from this file.
+type: dataset
+authors:
+  - given-names: Austin Martin
+    family-names: Meger
+    email: austin.megier@hdr.mq.edu.au
+    affiliation: Macquarie University
+repository-code: 'https://github.com/AustinMegier/MRes_Thesis_Data'
+license: CC-BY-4.0
