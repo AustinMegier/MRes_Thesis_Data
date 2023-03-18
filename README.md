@@ -37,3 +37,15 @@ Old Kingdom (c. 2686-2181 BC)
 
 
 ## Keywords
+* Egypt,
+* music,
+* archaeology,
+* iconography
+* chironomy/cheironomy
+
+## Potential Applications of the Data
+
+## Related Publications
+
+## License
+CC-BY-SA 4.0 International
