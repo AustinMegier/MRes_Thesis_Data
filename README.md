@@ -1,6 +1,6 @@
 # Old Kingdom musical ensemble scenes database
 
-**Insert one sentence description here**
+**Digitally mapping the musical ensemble scenes from Old Kingdom Egypt with particular attention payed to the gestures represented by the singer-chironomists**
 
 
 ## Authors:
@@ -33,19 +33,48 @@ expands.
 
 
 ## Period
-Old Kingdom (c. 2686-2181 BC)
+Old Kingdom Egypt (c. 2686-2181 BC)
 
 
 ## Keywords
 * Egypt,
-* music,
+* Egyptology,
+* iconography,
+* music archaeology.
+* musicology,
 * archaeology,
-* iconography
 * chironomy/cheironomy
 
 ## Potential Applications of the Data
+The *Old Kingdom musical ensemble scenes database* may be used by those wishing
+to investigate the iconographical, textual, and archaeo-musicological elements
+represented in this scene type from the period of the Old Kingdom. However, the database was designed
+with the foresight and hope that it would facilitate future research into music
+scenes across ancient Egypt's long and rich history. An expansion to the database,
+either by way of incorporating additional detail to the existing scenes or by
+way of adding similar scenes from later periods, is the ultimate goal.
 
 ## Related Publications
+Megier, A. (2020), ‘"One sings for you with the hand": gestures represented in Old Kingdom
+musical ensemble scenes’, MRes Thesis, Macquarie University. Accessible via: *insert link here once available*
+
+Linacre College, Oxford (2006) Oxford Expedition to Egypt: Scene-details Database[data-set]. York: Archaeology Data Service [distributor] https://doi.org/10.5284/1000009
 
 ## License
 CC-BY-SA 4.0 International
+
+## Map of files
+(*descriptions in parentheses where required*)
+
+*work in progress*
+
+## Methodological Notes
+The *Old Kingdom musical ensemble scenes database* references and correlates
+with a 'scene type' defined in the *Oxford Expedition to Egypt: Scene-details Database*
+(see **Related Publications** above), namely *12.3 Musician(s), with or without singers*
+(https://archaeologydataservice.ac.uk/archives/view/oee_ahrc_2006/queryThemes.cfm?section=tombs&theme=12.3&CFID=aa6cc367-de02-48ba-a1b8-c016024517a6&CFTOKEN=0).
+
+*work in progress*
+
+## File metadata
+*work in progress*
