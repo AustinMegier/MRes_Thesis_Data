@@ -66,6 +66,9 @@ CC-BY-SA 4.0 International
 ## Map of files
 (*descriptions in parentheses where required*)
 
+`/MRes_Thesis_Data/` *to be renamed at a later point*
+-   `csv_files/` *to be renamed at a later point* (*original data csvs*)
+
 *work in progress*
 
 ## Methodological Notes
