@@ -56,7 +56,7 @@ way of adding similar scenes from later periods, is the ultimate goal.
 
 ## Related Publications
 Megier, A. (2020), ‘"One sings for you with the hand": gestures represented in Old Kingdom
-musical ensemble scenes’, MRes Thesis, Macquarie University. Accessible via: *insert link here once available*
+musical ensemble scenes’, MRes Thesis, Macquarie University. Accessible via: https://doi.org/10.25949/22321105.v1
 
 Linacre College, Oxford (2006) Oxford Expedition to Egypt: Scene-details Database[data-set]. York: Archaeology Data Service [distributor] https://doi.org/10.5284/1000009
 
@@ -72,9 +72,17 @@ CC-BY-SA 4.0 International
 The *Old Kingdom musical ensemble scenes database* references and correlates
 with a 'scene type' defined in the *Oxford Expedition to Egypt: Scene-details Database*
 (see **Related Publications** above), namely *12.3 Musician(s), with or without singers*
-(https://archaeologydataservice.ac.uk/archives/view/oee_ahrc_2006/queryThemes.cfm?section=tombs&theme=12.3&CFID=aa6cc367-de02-48ba-a1b8-c016024517a6&CFTOKEN=0).
+(see here: https://archaeologydataservice.ac.uk/archives/view/oee_ahrc_2006/queryThemes.cfm?section=tombs&theme=12.3&CFID=aa6cc367-de02-48ba-a1b8-c016024517a6&CFTOKEN=0). The *Oxford Expedition to Egypt: Scene-details Database*
+is an Archaeology Data Service (ADS) ColdFusion (CFML) database.
 
-*work in progress*
+Geographical data was from Pleiades (https://pleiades.stoa.org/) and Google Maps
+(https://www.google.com/maps).
+
+For further methodological notes (including details on the iconographical and
+philological considerations employed), see Chapter 3 of *Megier, A. (2020)*
+(see **Related Publications** above).
+
+*work in progress, note: ask Brian about Ewan's second paragraph in his Methodological Notes*
 
 ## File metadata
 *work in progress*
