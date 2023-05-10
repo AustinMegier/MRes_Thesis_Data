@@ -14,7 +14,7 @@ Key:
 
 The **15** data tables and their columns are:
 
-1. **Location**
+### 1. Location
 * **Location_ID**
 * Site
 * Cemetery
@@ -22,11 +22,11 @@ The **15** data tables and their columns are:
 * Latitude
 * Longitude
 * Pleiades_Entry
-2. **Reign**
+### 2. Reign
 * **Reign**
 * Sort_Order
 * Dynasty
-3. **Chronology**
+### 3. Chronology
 * **Chronology_ID**
 * Period_Start
 * Period_End
@@ -34,25 +34,25 @@ The **15** data tables and their columns are:
 * Dynasty_End
 * *Reign_Start*
 * *Reign_End*
-4. **Tomb**
+### 4. **Tomb**
 * **Tomb_ID**
 * *Location_ID*
 * *Chronology_ID*
 * Appellation
-5. **Tomb_Number**
+### 5. Tomb_Number
 * **Tomb_ID**
 * **Database**
 * **Tomb_Number**
 * URL
-6. **OEE_Scene_Detail**
+### 6. OEE_Scene_Detail
 * **OEE_ID**
 * OEE_Scene_Detail
 * OEE_Scene_Detail_Name
 * OEE_Query_URL
-7. **OEE_Scene**
+### 7. **OEE_Scene**
 * ***OEE_ID***
 * ***Tomb_ID***
-8. **Scene**
+### 8. Scene
 * **Sene_ID**
 * *Tomb_ID*
 * Context
@@ -60,11 +60,11 @@ The **15** data tables and their columns are:
 * Wall
 * State_of_Preservation
 * Note
-9. **Reference**
+### 9. Reference
 * **Reference_ID**
 * *Scene_ID*
 * Main_Reference
-10. **Unattributed_Inscription**
+### 10. Unattributed_Inscription
 * **Unattributed_Inscription_ID**
 * *Scene_ID*
 * Inscription
@@ -73,12 +73,12 @@ The **15** data tables and their columns are:
 * Forearm_Determinative_Palm_Orientation
 * Forearm_Determinative_Wrist_Angle
 * Forearm_Determinative_.t-ending_Position
-11. **Register**
+### 11. Register
 * **Register_ID**
 * *Scene_ID*
 * Register
 * Subregister
-12. **Instrumentalist**
+### 12. Instrumentalist
 * **Instrumentalist_ID**
 * *Scene_ID*
 * Sex
@@ -88,7 +88,7 @@ The **15** data tables and their columns are:
 * Orientation_Face
 * Scene_Order_left_to_right
 * Subregister_Order_left_to_right
-13. **Chironomist**
+### 13. Chironomist
 * **Chironomist_ID**
 * *Scene_ID*
 * Sex
@@ -103,11 +103,11 @@ The **15** data tables and their columns are:
 * Forearm_Determinative_Palm_Orientation
 * Forearm_Determinative_Wrist_Angle
 * Forearm_Determinative_.t-ending_Position
-14. **Gesture**
+### 14. Gesture
 * **Gesture_ID**
 * Name
 * Description
-15. **Chironomist_Gesture**
+### 15. Chironomist_Gesture
 * ***Chironomist_ID***
 * **Hand_NF**
 * Hand_RL
